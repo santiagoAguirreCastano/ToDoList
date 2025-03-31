@@ -5,6 +5,7 @@ import { InputTask } from '../../components/InputTask/InputTask'
 import { TextAreaDescription } from '../../components/TextAreaDescription/TextAreaDescription'
 import {ItemTitles} from '../../components/ItemTitles/ItemTitles'   
 import { Button } from '../../components/Button/Button'
+
 export const Home = () => {
   return (     
     <Main>
